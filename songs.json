@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Vacation",
+    "authors": [ "Dirty Heads" ],
+    "album": "SWIM TEAM",
+    "root": "/songs/dirty_heads/vacation/"
+  },
+  {
+    "id": 2,
+    "title": "Midnight City",
+    "authors": [ "M83" ],
+    "album": "Hurry up, We're Dreaming",
+    "root": "/songs/m83/midnight_city/"
+  }
+]
