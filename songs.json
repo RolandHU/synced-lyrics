@@ -12,5 +12,12 @@
     "authors": [ "M83" ],
     "album": "Hurry up, We're Dreaming",
     "root": "/songs/m83/midnight_city/"
+  },
+  {
+    "id": 3,
+    "title": "Miss You",
+    "authors": [ "Oliver Tree, Robin Schulz" ],
+    "album": "Miss You",
+    "root": "/songs/oliver_tree/miss_you/"
   }
 ]
