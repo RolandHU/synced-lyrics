@@ -19,5 +19,12 @@
     "authors": [ "Oliver Tree, Robin Schulz" ],
     "album": "Miss You",
     "root": "/songs/oliver_tree/miss_you/"
+  },
+  {
+    "id": 4,
+    "title": "Don't Start Now",
+    "authors": [ "Dua Lipa" ],
+    "album": "Don't Start Now",
+    "root": "/songs/dua_lipa/dont_start_now/"
   }
 ]
